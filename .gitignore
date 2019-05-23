@@ -1,0 +1,6 @@
+!.gitignore
+/cparser.tab.c
+/cparser.tab.h
+/lex.yy.c
+/ffcc.exe
+
